@@ -1,2 +1,2 @@
 # Ripple
-No
+this is my first repository
